@@ -1,0 +1,198 @@
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.commenttasktag.strikethrough=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.numeric.bold=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.comment.strikethrough=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.procname.italic=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.procname.bold=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.numeric.italic=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.builtinfunction.underline=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.keyword.rgb=0,0,255
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.compilerdirective.underline=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.outsidemargins.underline=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.commenttasktag.rgb=0,160,160
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.languagesymbol.underline=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.preprocessorkeyword.underline=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.extension.strikethrough=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.procname.rgb=0,0,0
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.procname.underline=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.builtinfunction.strikethrough=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.comment.italic=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.extension.bold=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.keyword.italic=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.procname.strikethrough=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.outsidemargins.italic=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.preprocessorkeyword.strikethrough=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.outsidemargins.rgb=192,192,192
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.builtinfunction.italic=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.preprocessorkeyword.bold=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.languagesymbol.bold=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.literal.rgb=128,0,128
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.preprocessorkeyword.italic=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.extension.rgb=81,81,255
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.outsidemargins.strikethrough=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.languagesymbol.rgb=0,0,0
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.literal.strikethrough=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.label.rgb=0,0,0
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.comment.rgb=0,112,112
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.keyword.strikethrough=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.extension.italic=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.label.italic=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.keyword.underline=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.commenttasktag.italic=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.numeric.rgb=128,0,0
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.numeric.strikethrough=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.commenttasktag.underline=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.literal.underline=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.compilerdirective.italic=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.extension.underline=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.preprocessorkeyword.rgb=0,0,128
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.compilerdirective.rgb=0,0,255
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.compilerdirective.strikethrough=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.builtinfunction.bold=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.keyword.bold=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.literal.italic=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.languagesymbol.italic=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.compilerdirective.bold=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.numeric.underline=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.labelbold=
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+overriddenByCSS=
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.comment.underline=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.builtinfunction.rgb=0,0,255
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.label.underline=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.languagesymbol.strikethrough=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.outsidemargins.bold=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.literal.bold=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.label.strikethrough=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.comment.bold=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.commenttasktag.bold=false

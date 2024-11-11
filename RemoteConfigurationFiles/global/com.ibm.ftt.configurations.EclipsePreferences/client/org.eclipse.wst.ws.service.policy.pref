@@ -1,0 +1,6 @@
+# 
+#Tue Aug 20 16:14:49 BRT 2024
+org.eclipse.wst.ws.service.policy.ui.servicepols.wsiprofilecomp.wsiap.defaultProtocol=http\://schemas.xmlsoap.org/wsdl/soap/
+# 
+#Tue Aug 20 16:14:49 BRT 2024
+org.eclipse.wst.ws.service.policy.ui.servicepols.wsiprofilecomp.wsissbp.defaultProtocol=http\://schemas.xmlsoap.org/wsdl/soap/

@@ -1,0 +1,78 @@
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.subheader.bold=true
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.header.underline=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.dataset.text.rgb=150,40,140
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.subheader.underline=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.subheader.rgb=220,68,178
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.header.rgb=0,50,255
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.message.text.underline=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.message.text.bold=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.dataset.text.strikethrough=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.message.text.strikethrough=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.message.text.italic=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.dataset.text.underline=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.subheader.strikethrough=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.header.strikethrough=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.message.id.rgb=220,68,178
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.message.id.italic=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.message.id.underline=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.dataset.text.italic=true
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+overriddenByCSS=
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.message.id.strikethrough=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.header.italic=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.header.bold=true
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.message.id.bold=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.dataset.text.bold=false
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.message.text.rgb=100,150,100
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+syntaxColoring.style.subheader.italic=false

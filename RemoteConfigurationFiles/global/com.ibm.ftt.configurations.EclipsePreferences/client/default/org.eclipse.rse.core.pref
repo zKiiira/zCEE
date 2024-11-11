@@ -1,0 +1,15 @@
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+org.eclipse.rse.systemtype.unix.systemType.enabled=true
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+org.eclipse.rse.systemtype.linux.systemType.enabled=true
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+org.eclipse.rse.systemtype.telnet.systemType.enabled=true
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+org.eclipse.rse.systemtype.ftp.systemType.enabled=true
+# 
+#Mon Nov 11 12:13:59 BRT 2024
+org.eclipse.rse.systemtype.windows.systemType.enabled=true

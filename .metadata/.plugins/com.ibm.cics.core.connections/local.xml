@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<connections>
+    <type type="com.ibm.zosconnect.ui.connections.type.adminapi">
+        <configID ALLOW_MULTIPLE_CONNECTIONS="" ATTEMPT_SECURE="false" CONNECT_TIMEOUT="30000" READ_TIMEOUT="30000" configID="1723555387905-0" host="9.46.108.19" name="zFyre" port="30701" ssl_confirmed="true"/>
+        <configID ALLOW_MULTIPLE_CONNECTIONS="" ATTEMPT_SECURE="false" CONNECT_TIMEOUT="30000" READ_TIMEOUT="30000" configID="1724180210827-1" host="9.46.108.19:30701" name="ZOSCSRV1" port="30703" ssl_confirmed="true"/>
+    </type>
+</connections>

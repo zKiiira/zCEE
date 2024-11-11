@@ -1,0 +1,128 @@
+{
+  "swagger" : "2.0",
+  "info" : {
+    "description" : "",
+    "version" : "1.0.0",
+    "title" : "interceptor"
+  },
+  "host" : "localhost:8080",
+  "basePath" : "/interceptor",
+  "schemes" : [ "https", "http" ],
+  "consumes" : [ "application/json" ],
+  "produces" : [ "application/json" ],
+  "paths" : {
+    "/newPath1" : {
+      "get" : {
+        "tags" : [ "interceptor" ],
+        "operationId" : "getInterceptortst",
+        "parameters" : [ {
+          "name" : "Authorization",
+          "in" : "header",
+          "required" : false,
+          "type" : "string"
+        }, {
+          "name" : "YYYY",
+          "in" : "query",
+          "required" : false,
+          "type" : "string"
+        }, {
+          "name" : "MM",
+          "in" : "query",
+          "required" : false,
+          "type" : "string"
+        }, {
+          "name" : "DD",
+          "in" : "query",
+          "required" : false,
+          "type" : "string"
+        }, {
+          "in" : "body",
+          "name" : "getInterceptortst_request",
+          "description" : "request body",
+          "required" : true,
+          "schema" : {
+            "$ref" : "#/definitions/getInterceptortst_request"
+          }
+        } ],
+        "responses" : {
+          "200" : {
+            "description" : "OK",
+            "schema" : {
+              "$ref" : "#/definitions/getInterceptortst_response_200"
+            }
+          }
+        }
+      }
+    }
+  },
+  "definitions" : {
+    "getInterceptortst_request" : {
+      "type" : "object",
+      "properties" : {
+        "INTERFACE_AREA" : {
+          "type" : "object",
+          "properties" : {
+            "L_DAY_DIFFERENCE" : {
+              "type" : "integer",
+              "minimum" : 0,
+              "maximum" : 999999999
+            },
+            "L_DATE_FORMATTED" : {
+              "type" : "string",
+              "maxLength" : 29
+            },
+            "L_PROGRAM_RETCODE" : {
+              "type" : "integer",
+              "minimum" : 0,
+              "maximum" : 9999
+            }
+          }
+        }
+      }
+    },
+    "getInterceptortst_response_200" : {
+      "type" : "object",
+      "properties" : {
+        "INTERFACE_AREA" : {
+          "type" : "object",
+          "properties" : {
+            "L_INPUT_DATE" : {
+              "type" : "object",
+              "properties" : {
+                "L_YYYY" : {
+                  "type" : "integer",
+                  "minimum" : 0,
+                  "maximum" : 9999
+                },
+                "L_MM" : {
+                  "type" : "integer",
+                  "minimum" : 0,
+                  "maximum" : 99
+                },
+                "L_DD" : {
+                  "type" : "integer",
+                  "minimum" : 0,
+                  "maximum" : 99
+                }
+              }
+            },
+            "L_DAY_DIFFERENCE" : {
+              "type" : "integer",
+              "minimum" : 0,
+              "maximum" : 999999999
+            },
+            "L_DATE_FORMATTED" : {
+              "type" : "string",
+              "maxLength" : 29
+            },
+            "L_PROGRAM_RETCODE" : {
+              "type" : "integer",
+              "minimum" : 0,
+              "maximum" : 9999
+            }
+          }
+        }
+      }
+    }
+  }
+}

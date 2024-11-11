@@ -1,0 +1,44 @@
+{
+  "type" : "object",
+  "properties" : {
+    "INTERFACE_AREA" : {
+      "type" : "object",
+      "properties" : {
+        "L_INPUT_DATE" : {
+          "type" : "object",
+          "properties" : {
+            "L_YYYY" : {
+              "minimum" : 0,
+              "maximum" : 9999,
+              "type" : "integer"
+            },
+            "L_MM" : {
+              "minimum" : 0,
+              "maximum" : 99,
+              "type" : "integer"
+            },
+            "L_DD" : {
+              "minimum" : 0,
+              "maximum" : 99,
+              "type" : "integer"
+            }
+          }
+        },
+        "L_DAY_DIFFERENCE" : {
+          "minimum" : 0,
+          "maximum" : 999999999,
+          "type" : "integer"
+        },
+        "L_DATE_FORMATTED" : {
+          "maxLength" : 29,
+          "type" : "string"
+        },
+        "L_PROGRAM_RETCODE" : {
+          "minimum" : 0,
+          "maximum" : 9999,
+          "type" : "integer"
+        }
+      }
+    }
+  }
+}

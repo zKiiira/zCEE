@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+remoteHelpHost=www.ibm.com,www.ibm.com
+remoteHelpICEnabled=true,true
+remoteHelpName=Help for IBM Developer for z/OS,Help for IBM Explorer for z/OS
+remoteHelpOn=true
+remoteHelpPath=/docs/api/v1/iehs/SSQ2R2_16.0.0,/docs/api/v1/iehs/SSBDYH_3.3
+remoteHelpPort=443,443
+remoteHelpPreferred=true
+remoteHelpProtocol=https,https
+scope=

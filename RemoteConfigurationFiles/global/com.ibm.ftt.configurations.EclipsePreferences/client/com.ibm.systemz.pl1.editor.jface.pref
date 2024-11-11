@@ -1,0 +1,198 @@
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.commenttasktag.strikethrough=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.numeric.bold=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.comment.strikethrough=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.procname.italic=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.procname.bold=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.numeric.italic=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.builtinfunction.underline=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.keyword.rgb=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.compilerdirective.underline=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.outsidemargins.underline=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.commenttasktag.rgb=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.languagesymbol.underline=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.extension.strikethrough=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.preprocessorkeyword.underline=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.procname.rgb=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.procname.underline=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.builtinfunction.strikethrough=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.comment.italic=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.extension.bold=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.keyword.italic=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.procname.strikethrough=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.outsidemargins.italic=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.preprocessorkeyword.strikethrough=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.outsidemargins.rgb=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.builtinfunction.italic=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.preprocessorkeyword.bold=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.languagesymbol.bold=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.literal.rgb=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.preprocessorkeyword.italic=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.extension.rgb=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.outsidemargins.strikethrough=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.languagesymbol.rgb=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.literal.strikethrough=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.label.rgb=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.comment.rgb=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.keyword.strikethrough=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.extension.italic=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.label.italic=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.keyword.underline=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.commenttasktag.italic=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.numeric.rgb=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.numeric.strikethrough=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.commenttasktag.underline=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.literal.underline=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.compilerdirective.italic=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.extension.underline=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.preprocessorkeyword.rgb=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.compilerdirective.rgb=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.compilerdirective.strikethrough=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.builtinfunction.bold=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.keyword.bold=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.literal.italic=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.languagesymbol.italic=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.compilerdirective.bold=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.numeric.underline=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.labelbold=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+overriddenByCSS=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.comment.underline=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.builtinfunction.rgb=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.label.underline=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.languagesymbol.strikethrough=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.outsidemargins.bold=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.literal.bold=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.label.strikethrough=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.comment.bold=
+# 
+#Mon Nov 11 12:13:56 BRT 2024
+syntaxColoring.style.commenttasktag.bold=

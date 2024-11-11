@@ -1,0 +1,4 @@
+com.ibm.tpf.startup.core.cdtCheck=true
+com.ibm.tpf.startup.core.cdtEditorCheck=true
+eclipse.preferences.version=1
+showIntro=false

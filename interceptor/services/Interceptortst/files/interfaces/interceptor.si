@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:message xmlns:ns2="http://www.ibm.com/ims/Transaction" transactionCode="" messageName="interceptor" direction="0" serviceType="CICS_COMM_AREA">
+    <message id="1" name="interceptor">
+        <segment id="1" name="COMMAREA" originalName="COMMAREA">
+            <field name="INTERFACE_AREA" originalName="INTERFACE_AREA" included="Y" path="INTERFACE_AREA">
+                <startPos>1</startPos>
+                <bytes>50</bytes>
+                <maxBytes>50</maxBytes>
+                <applicationDatatype datatype="STRUCT"/>
+                <field name="L_INPUT_DATE" originalName="L_INPUT_DATE" included="Y" path="INTERFACE_AREA.L_INPUT_DATE">
+                    <startPos>1</startPos>
+                    <bytes>8</bytes>
+                    <maxBytes>8</maxBytes>
+                    <applicationDatatype datatype="STRUCT"/>
+                    <field name="L_YYYY" originalName="L_YYYY" included="Y" path="INTERFACE_AREA.L_INPUT_DATE.L_YYYY">
+                        <startPos>1</startPos>
+                        <bytes>4</bytes>
+                        <maxBytes>4</maxBytes>
+                        <marshaller isSigned="N" isSignLeading="N" isSignSeparate="N" isWCHAROnly="N">
+                            <typeConverter>ZONEDDECIMAL</typeConverter>
+                        </marshaller>
+                        <applicationDatatype datatype="DECIMAL" precision="4" scale="0"/>
+                    </field>
+                    <field name="L_MM" originalName="L_MM" included="Y" path="INTERFACE_AREA.L_INPUT_DATE.L_MM">
+                        <startPos>5</startPos>
+                        <bytes>2</bytes>
+                        <maxBytes>2</maxBytes>
+                        <marshaller isSigned="N" isSignLeading="N" isSignSeparate="N" isWCHAROnly="N">
+                            <typeConverter>ZONEDDECIMAL</typeConverter>
+                        </marshaller>
+                        <applicationDatatype datatype="DECIMAL" precision="2" scale="0"/>
+                    </field>
+                    <field name="L_DD" originalName="L_DD" included="Y" path="INTERFACE_AREA.L_INPUT_DATE.L_DD">
+                        <startPos>7</startPos>
+                        <bytes>2</bytes>
+                        <maxBytes>2</maxBytes>
+                        <marshaller isSigned="N" isSignLeading="N" isSignSeparate="N" isWCHAROnly="N">
+                            <typeConverter>ZONEDDECIMAL</typeConverter>
+                        </marshaller>
+                        <applicationDatatype datatype="DECIMAL" precision="2" scale="0"/>
+                    </field>
+                </field>
+                <field name="L_DAY_DIFFERENCE" originalName="L_DAY_DIFFERENCE" included="Y" path="INTERFACE_AREA.L_DAY_DIFFERENCE">
+                    <startPos>9</startPos>
+                    <bytes>9</bytes>
+                    <maxBytes>9</maxBytes>
+                    <marshaller isSigned="N" isSignLeading="N" isSignSeparate="N" isWCHAROnly="N">
+                        <typeConverter>ZONEDDECIMAL</typeConverter>
+                    </marshaller>
+                    <applicationDatatype datatype="DECIMAL" precision="9" scale="0"/>
+                </field>
+                <field name="L_DATE_FORMATTED" originalName="L_DATE_FORMATTED" included="Y" path="INTERFACE_AREA.L_DATE_FORMATTED">
+                    <startPos>18</startPos>
+                    <bytes>29</bytes>
+                    <maxBytes>29</maxBytes>
+                    <applicationDatatype datatype="CHAR"/>
+                </field>
+                <field name="L_PROGRAM_RETCODE" originalName="L_PROGRAM_RETCODE" included="Y" path="INTERFACE_AREA.L_PROGRAM_RETCODE">
+                    <startPos>47</startPos>
+                    <bytes>4</bytes>
+                    <maxBytes>4</maxBytes>
+                    <marshaller isSigned="N" isSignLeading="N" isSignSeparate="N" isWCHAROnly="N">
+                        <typeConverter>ZONEDDECIMAL</typeConverter>
+                    </marshaller>
+                    <applicationDatatype datatype="DECIMAL" precision="4" scale="0"/>
+                </field>
+            </field>
+        </segment>
+    </message>
+</ns2:message>

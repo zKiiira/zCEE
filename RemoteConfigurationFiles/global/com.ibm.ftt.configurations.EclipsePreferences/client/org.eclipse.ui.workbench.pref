@@ -1,0 +1,36 @@
+# 
+#Tue Jul 30 03:05:45 BRT 2024
+UIActivities.org.eclipse.team.cvs=false
+# 
+#Tue Jul 30 03:05:45 BRT 2024
+UIActivities.generalJDTcomponents.activity=true
+# 
+#Tue Jul 30 03:05:45 BRT 2024
+UIActivities.lpexEnablement.activity=true
+# 
+#Tue Jul 30 03:05:45 BRT 2024
+UIActivities.org.eclipse.antDevelopment=false
+# 
+#Tue Jul 30 03:05:45 BRT 2024
+UIActivities.org.eclipse.wst.json.activity=true
+# 
+#Tue Jul 30 03:05:45 BRT 2024
+UIActivities.org.eclipse.javaDevelopment=true
+# 
+#Tue Jul 30 03:05:45 BRT 2024
+org.eclipse.ui.commands/state/org.eclipse.ui.navigator.resources.nested.changeProjectPresentation/org.eclipse.ui.commands.radioState=false
+# 
+#Tue Jul 30 03:05:45 BRT 2024
+UIActivities.remoteerrorlist.activity=true
+# 
+#Tue Jul 30 03:05:45 BRT 2024
+UIActivities.org.eclipse.wst.xml.activity=true
+# 
+#Tue Jul 30 03:05:45 BRT 2024
+UIActivities.org.eclipse.plugInDevelopment=false
+# 
+#Tue Jul 30 03:05:45 BRT 2024
+UIActivities.propertygroups.activity=true
+# 
+#Tue Jul 30 03:05:45 BRT 2024
+UIActivities.remotezosfilesearch.activity=true

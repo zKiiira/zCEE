@@ -1,0 +1,18 @@
+# 
+#Tue Jul 30 03:05:45 BRT 2024
+org.eclipse.rse.systemtype.ssh.systemType.enabled=true
+# 
+#Tue Jul 30 03:05:45 BRT 2024
+org.eclipse.rse.systemtype.unix.systemType.enabled=false
+# 
+#Tue Jul 30 03:05:45 BRT 2024
+org.eclipse.rse.systemtype.linux.systemType.enabled=false
+# 
+#Tue Jul 30 03:05:45 BRT 2024
+org.eclipse.rse.systemtype.telnet.systemType.enabled=false
+# 
+#Tue Jul 30 03:05:45 BRT 2024
+org.eclipse.rse.systemtype.ftp.systemType.enabled=false
+# 
+#Tue Jul 30 03:05:45 BRT 2024
+org.eclipse.rse.systemtype.windows.systemType.enabled=false

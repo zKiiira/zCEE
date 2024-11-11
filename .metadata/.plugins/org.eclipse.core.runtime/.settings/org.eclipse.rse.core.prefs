@@ -1,0 +1,10 @@
+activeuserprofiles=IBM-PF23KKRE;Team
+eclipse.preferences.version=1
+org.eclipse.rse.systemtype.ftp.systemType.enabled=false
+org.eclipse.rse.systemtype.linux.systemType.enabled=false
+org.eclipse.rse.systemtype.local.systemType.defaultUserId=LucasHiago
+org.eclipse.rse.systemtype.ssh.systemType.enabled=true
+org.eclipse.rse.systemtype.telnet.systemType.enabled=false
+org.eclipse.rse.systemtype.unix.systemType.enabled=false
+org.eclipse.rse.systemtype.windows.systemType.enabled=false
+useridperkey=IBM-PF23KKRE.Local\=LucasHiago;

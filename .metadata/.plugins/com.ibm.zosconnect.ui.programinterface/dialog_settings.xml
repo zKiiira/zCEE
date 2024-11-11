@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ImportDSTranMessageMetadataWizard.STORE_IMPORT_DATA_STRUCTURE_ID">
+		<item key="ImportDSTranMessageMetadataWizard.STORE_LAST_SOURCE_TYPE_ID" value="true"/>
+		<item key="ImportDSTranMessageMetadataWizard.STORE_LAST_SOURCE_LANGUAGE_ID" value="COBOL data structures only"/>
+		<item key="ImportDSTranMessageMetadataWizard.STORE_LAST_FOLDER_ID" value="C:\Users\015951631\Downloads\CDAT2-Commarea.txt"/>
+		<list key="ImportDSTranMessageMetadataWizardPage.STORE_LOCAL_SOURCE_NAMES_ID">
+			<item value="C:\Users\015951631\Downloads"/>
+		</list>
+	</section>
+</section>
